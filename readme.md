@@ -31,3 +31,9 @@ also try if we are using conda env
 <pre>
 create two files `setup.py` and `requirements.txt` file 
 </pre>
+6. Checked that every thing is working fine or not  
+
+<pre>
+type 
+python src/logger.py
+</pre>
